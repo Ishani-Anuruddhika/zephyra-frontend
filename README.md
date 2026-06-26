@@ -1,5 +1,5 @@
 
-# Zephyra Frontend
+# Login Frontend
 
 Next.js + Tailwind CSS frontend.
 
